@@ -1,0 +1,22 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+    margin: 0px;
+    }
+    .note{
+    font-size: 15px;
+    color: black; 
+    }
+    .copyright_footer{
+       position: fixed;
+       background-color: gray;
+       bottom: 0;
+       color: wheat;
+       text-align: center;
+       width: 100%;
+       box-shadow: -5px -5px 5px black;
+       line-height: 3;
+       
+    }
+   
